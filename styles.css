@@ -1,0 +1,33 @@
+h1 {
+	letter-spacing: 5px;
+	color: blue;
+	b
+	}
+	
+body {
+	padding: 36px;
+	line-height: 36px;
+	font-family: verdana, sans-serif;
+	text-align: center;
+	
+	}
+nav {
+	font-weight: bold;
+		
+	}
+table {
+	border:1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	}
+#courses{
+	padding: 10px;
+}
+
+input[type=radio]{
+	accent-color: green;
+}
+
+.container{
+	background-color: aquamarine;
+}
